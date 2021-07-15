@@ -1,0 +1,16 @@
+.cover-container {
+    max-width: 42em;
+}
+
+.button-white {
+    background-color: white;
+}
+
+.text-b-white {
+    color: #0d6efd;
+}
+
+.button:hover {
+    background-color: blue !important;
+    color: white !important;
+}
